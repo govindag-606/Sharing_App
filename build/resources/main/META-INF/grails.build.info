@@ -1,0 +1,6 @@
+#Sun, 28 Apr 2024 21:50:00 +0530
+
+info.app.version=0.1
+info.app.name=test
+grails.env=development
+info.app.grailsVersion=3.3.9
